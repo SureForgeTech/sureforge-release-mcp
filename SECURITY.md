@@ -34,4 +34,4 @@ declined with a rationale.
 
 Good-faith research is welcome and authorized when it avoids privacy violations, service disruption
 and data destruction. Please do not disclose a vulnerability publicly until the maintainers confirm
-that a fix is available, or agree a disclosure date with you.
+that a fix is available, or until a disclosure date agreed with you has arrived.
